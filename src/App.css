@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+.messenger_logo{
+  width:100x;
+  height: 100px;
+}
+.app_form{
+  padding: 5px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 1;
+  background-color:rgb(247, 238, 238);
+  width: 100%;
+  margin: 10px;
+  border-radius: 10px;
+}
+.app_formControl{
+  display: flex !important;
+  flex-direction: row !important;
+
+}
+.icon_buttton{
+  flex: 0;
+
+}
+.app_input{
+  flex: 1;
+
+}
